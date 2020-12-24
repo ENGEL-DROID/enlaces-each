@@ -1,0 +1,39 @@
+body {
+    color: gray;
+    padding: 5%;
+    font-family:Verdana, Geneva, sans-serif;
+}
+h1 {
+	text-align:center;
+}
+p {
+	font-size:0.8em;
+	text-align:justify;
+}
+#links {
+	border:dashed #9292ff 2px;
+	padding: 5%;
+	padding-bottom: 80%;
+    font-size:0.6em;
+}
+#links h2 {
+    font-size:1.5em;
+}
+li {
+	font-weight:bold;
+	font-size:1em;
+}
+#c1 {
+	width: 70%;
+	padding: 2%;
+}
+#c2 {
+	width: 30%;
+	padding: 2%;
+	padding-bottom: 20%;
+	padding-top: 10%;
+}
+a {
+	color: #9292ff;
+	text-decoration:none;
+}
